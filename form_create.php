@@ -16,8 +16,8 @@ Email:
 <input type="email">
 <br>
 Gender:
-<input type="radio" name="gender"> male
-<input type="radio" name="gender"> femal
+<input type="radio" name="gender"> Male
+<input type="radio" name="gender"> Female
 <br>
 Attended:
 <input type="checkbox">
