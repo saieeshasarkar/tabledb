@@ -94,7 +94,12 @@ Attended
 </td>
 </tr>
 </table>
+<p><a href="index.php">back to main page</a></p>
+
+
 
 </body>
 </html>
+
+
 
