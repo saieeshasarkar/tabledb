@@ -95,6 +95,10 @@ Attended
 </tr>
 </table>
 <p><a href="/">back to main page</a></p>
+<p><a href="form_create.php">create</a></p>
+<p><a href="form_delete.php">delete</a></p>
+<p><a href="form_edit.php">edit</a></p>
+
 
 
 
