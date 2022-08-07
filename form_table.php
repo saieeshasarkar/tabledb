@@ -9,7 +9,7 @@ $connection= pg_connect($connecction_string);
 if ($connection){
   echo "connection successfully";
 }
->
+?>
 <!DOCTYPE html>
 <html>
 <body>
