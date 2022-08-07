@@ -1,3 +1,15 @@
+<?php
+$Host = "ec2-107-22-122-106.compute-1.amazonaws.com";
+$Database = "d1tn622u5quqb9";
+$User = "eigildkwampqad";
+$Port = "5432";
+$Password = "d1279d342c4929164accf725f011e82e292d9fa732b{b46d994089b78b599e4cf9";
+$connecction_string = "host={$Host} port={$Port} dbname={$Database} user:{$User} password:{$Password}";
+$connection= pg_connect($connecction_string);
+if ($connection){
+  echo "connection successfully";
+}
+>
 <!DOCTYPE html>
 <html>
 <body>
